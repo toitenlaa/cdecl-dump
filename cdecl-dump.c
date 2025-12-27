@@ -1369,16 +1369,8 @@ static void dump_decl(const struct node *const decl)
         break;
 
     case NT_Pdcl:
-        dump_decl(dcl->children[1]);
-        printf("┌─────┐\n");
-        printf("│  ↓  │ PTR\n");
-        printf("└─────┘\n");
-        print_decl(decl, true);
-        putchar('\n');
-        break;
-
     case NT_Qdcl:
-        dump_decl(dcl->children[2]);
+        dump_decl(dcl->children[dcl->nt == NT_Pdcl ? 1 : 2]);
         printf("┌─────┐\n");
         printf("│  ↓  │ PTR\n");
         printf("└─────┘\n");
